@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Intent Exercise</string>
+    <string-array name="pokemon_names">
+        <item>abra</item>
+        <item>bellsprout</item>
+        <item>bullbasaur</item>
+        <item>caterpie</item>
+        <item>charmander</item>
+        <item>dratini</item>
+        <item>eevee</item>
+        <item>jigglypuff</item>
+        <item>mankey</item>
+        <item>meowth</item>
+        <item>mew</item>
+        <item>pidgey</item>
+        <item>pikachu</item>
+        <item>psyduck</item>
+        <item>rattata</item>
+        <item>snorlax</item>
+        <item>squirtle</item>
+        <item>venonat</item>
+    </string-array>
+</resources>
